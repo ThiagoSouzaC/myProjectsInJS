@@ -7,7 +7,7 @@
         "width=device-width, 
         initial-scale=1.0" />
   
-    <title>Digital Clock</title>
+    <title>Relógio Digital</title>
   
     <style>
         #clock {
